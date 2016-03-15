@@ -1,7 +1,9 @@
+This file is for experimenting with markdown
+
 ```
 this is code
 *this is more code*
-*_this is even more code_*
+**_this is even more code_**
 _so is this_
 **and this**
 ```
