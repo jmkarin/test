@@ -6,8 +6,8 @@ _so is this_
 **and this**
 ```
 
-**this is bold**
-**_this is bold italics_**
-_**so is this**_
-_this is italics_
-*so is this*
+* **this is bold**
+* _this is italics_
+* *so is this*
+* **_this is bold italics_**
+* _**so is this**_
